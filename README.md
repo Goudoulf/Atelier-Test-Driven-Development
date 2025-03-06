@@ -110,4 +110,5 @@ C   C
 ```
 ---
 
-Amusez-vous bien !
+
+[source](https://github.com/gabbloquet/entrainement-au-tdd/blob/master/src/main/java/io/github/gabbloquet/tddtraining/Thermometer/README.md)
