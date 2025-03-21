@@ -58,14 +58,16 @@ Les Romains utilisaient un système de numération basé sur des lettres : I, V,
 
 **Exemples :**
 
-1 --> I 
-7 --> VII
-10 --> X
-49 --> XLIX
-847 --> DCCCXLVII
-1053 --> MLIII
-1776 --> MDCCLXXVI
-2018 --> MMXVIII
+| Entier | Chiffre Romain |
+|:----|:----|
+| 1 | I |
+| 7 | VII |
+| 10 | X |
+| 49 | XLIX |
+| 847 | DCCCXLVII |
+| 1053 | MLIII |
+| 1776 | MDCCLXXVI |
+| 2018 | MMXVIII |
 
 *Remarque :* Il n'est pas nécessaire de gérer des nombres supérieurs à environ 3000.
 
